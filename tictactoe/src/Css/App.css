@@ -1,0 +1,16 @@
+.board-row{
+    display: flex;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    /* margin-top: 40px; */
+    width: 30%;
+    /* background-color: rgb(208, 221, 24); */
+    border-radius:20px ;
+}
+
+.board-container{
+   
+    margin-left: 600px;
+    margin-top: 90px;
+    background-color: black;
+}
